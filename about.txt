@@ -1,0 +1,2 @@
+Алгоритм взят из статьи https://sites.google.com/site/ltwood/projects/heshby/shannon
+Язык реализации: Python 3.5
